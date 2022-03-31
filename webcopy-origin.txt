@@ -721,8 +721,3 @@ Content Type: application/javascript
 Uri: https://ws.tildacdn.com/project2059987/tilda-blocks-2.7.js?t=1648534493
 File Name: C:\Downloaded Web Sites\spbboxing.ru\project2059987\tilda-blocks-2.7-1.js
 Content Type: application/javascript
-
-
-git remote add origin https://github.com/MyCode07/penzaboxing.git
-git branch -M main
-git push -u origin main

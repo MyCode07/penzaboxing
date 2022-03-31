@@ -1,0 +1,147 @@
+.main-coach__img{
+    height: 560px;
+}
+.director-img{
+    height: 425px;
+}
+@media (max-width:1200px){
+    .main-coach__img{
+        height: 460px;
+    }
+    .director-img{
+        height: 350px;
+    }
+}
+@media (max-width:960px){
+    .main-coach__img{
+        height: 646px;
+    }
+    .director-img{
+        height: 490px;
+    }
+}
+@media (max-width:640px){
+    .main-coach__img{
+        height: calc(300px + 953 * ((100vw - 320px) / 880));
+    }
+    .director-img{
+        height: calc(230px + 715 * ((100vw - 320px) / 880));
+    }
+}
+@media (max-width:320px){
+    .main-coach__img{
+        height: 300px;
+    }
+    .director-img{
+        height: 230px;
+    }
+}
+
+.t-menu__link-item{
+    color:#ffffff!important;
+    font-size:14px;
+    font-weight:600;
+    font-family:'Montserrat';
+    text-transform:uppercase;
+}
+
+.footer__menu li a{
+    color:#ffffff !important;
+    text-decoration: none;
+    border-bottom: 0px solid;
+    box-shadow: inset 0px -0px 0px 0px;
+    -webkit-box-shadow: inset 0px -0px 0px 0px;
+    -moz-box-shadow: inset 0px -0px 0px 0px;
+}
+ 
+.t420__descr.t-descr.t-descr_xxs{
+  color: #c8c8c8;
+  font-size:12px;
+  font-family:'Montserrat';
+}
+
+.t420__title.t-name.t-name_xs.t420__title_uppercase{
+   color: #ffffff;
+   font-size:14px;
+   text-transform:uppercase;
+}
+
+.t134__logo.t-title{
+    color:#ffffff;
+    font-size:10px;
+    font-weight:300;
+    letter-spacing:1px;
+}
+.t-rec_pb_30.t-screenmax-980px{
+    padding-top:30px;
+    padding-bottom:30px;
+    background-color:#080614;
+}
+
+.t282__burger span{
+    background-color: #fff;
+    pointer-events: none;
+}
+
+.t282__burger._active span:nth-child(2), .t282__burger._active  span:nth-child(3){
+     display: none;
+ }
+
+.t282__burger._active  span:first-child{
+    top: 50% ;
+    transform:translate(0,-50%) rotate(45deg);
+}
+.t282__burger._active  span:last-child{
+    top: 50%;
+    transform:translate(0,-50%) rotate(-45deg);
+}
+
+
+
+/* эти стили для фиксированной шапки   */
+
+
+
+
+@media (min-width:1201px){
+
+    ._scroll-header{
+        min-height: 60px;
+        transition: all 0.3s ease 0s;
+        position: absolute;
+    }
+    
+    ._scroll-header__wrapper{
+        transition: all 0.3s ease 0s;
+        min-height: 60px;
+        position: fixed;
+    }
+
+    ._scroll-header._fixed ._scroll-header__wrapper{
+        background-color: #201566;
+    }
+}
+
+.first__image._low-Zindex{
+    transition: all 0.3s ease 0s;
+    z-index: -1;
+}
+
+@media (max-width:1200px){
+    ._scroll-header-mobile{
+        min-height: 40px;
+        transition: all 0.3s ease 0s;
+        position: absolute;
+    }
+    
+    ._scroll-header__wrapper-mobile{
+        transition: all 0.3s ease 0s;
+        min-height: 40px;
+        position: fixed;
+        width: calc( 100% - 40px);
+    }
+
+    ._scroll-header-mobile._fixed ._scroll-header__wrapper-mobile{
+        background-color: #201566;
+    }
+}

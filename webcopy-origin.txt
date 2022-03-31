@@ -1,0 +1,728 @@
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:d54bfd4adf1e8e188dbccfd4e979988fda5715abe9f259ed2bf7b1e297fa17b2&width=100%25&height=650&lang=ru_RU&scroll=true
+File Name: C:\Downloaded Web Sites\spbboxing.ru\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\spbboxing.ru\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&subset=latin,cyrillic
+File Name: C:\Downloaded Web Sites\spbboxing.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\spbboxing.ru\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\spbboxing.ru\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\spbboxing.ru\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\spbboxing.ru\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\spbboxing.ru\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/75330817
+File Name: C:\Downloaded Web Sites\spbboxing.ru\watch\75330817
+Content Type: image/gif
+
+Uri: https://rusada.ru/upload/iblock/359/Запрещенный список 2021.pdf
+File Name: C:\Downloaded Web Sites\spbboxing.ru\upload\iblock\359\Запрещенный список 2021.pdf
+Content Type: application/pdf
+
+Uri: https://rusada.ru/upload/iblock/664/ОБЗОР ОСНОВНЫХ ИЗМЕНЕНИЙ И ПОЯСНИТЕЛЬНАЯ ЗАПИСКА К ЗС 2021.pdf
+File Name: C:\Downloaded Web Sites\spbboxing.ru\upload\iblock\664\ОБЗОР ОСНОВНЫХ ИЗМЕНЕНИЙ И ПОЯСНИТЕЛЬНАЯ ЗАПИСКА К ЗС 2021.pdf
+Content Type: application/pdf
+
+Uri: https://rusada.ru/upload/iblock/98c/Запрещенный список 2022.pdf
+File Name: C:\Downloaded Web Sites\spbboxing.ru\upload\iblock\98c\Запрещенный список 2022.pdf
+Content Type: application/pdf
+
+Uri: https://spb.kassir.ru/start-frame.js
+File Name: C:\Downloaded Web Sites\spbboxing.ru\start-frame.js
+Content Type: application/javascript
+
+Uri: https://spbboxing.ru/
+File Name: C:\Downloaded Web Sites\spbboxing.ru\index.htm
+Content Type: text/html
+
+Uri: https://spbboxing.ru/antidoping/
+File Name: C:\Downloaded Web Sites\spbboxing.ru\antidoping\index.htm
+Content Type: text/html
+
+Uri: https://spbboxing.ru/besplatnye-detskie-gruppy
+File Name: C:\Downloaded Web Sites\spbboxing.ru\besplatnye-detskie-gruppy.html
+Content Type: text/html
+
+Uri: https://spbboxing.ru/clubs
+File Name: C:\Downloaded Web Sites\spbboxing.ru\clubs.html
+Content Type: text/html
+
+Uri: https://spbboxing.ru/coaches
+File Name: C:\Downloaded Web Sites\spbboxing.ru\coaches.html
+Content Type: text/html
+
+Uri: https://spbboxing.ru/documents
+File Name: C:\Downloaded Web Sites\spbboxing.ru\documents.html
+Content Type: text/html
+
+Uri: https://spbboxing.ru/federation
+File Name: C:\Downloaded Web Sites\spbboxing.ru\federation.html
+Content Type: text/html
+
+Uri: https://spbboxing.ru/news
+File Name: C:\Downloaded Web Sites\spbboxing.ru\news.html
+Content Type: text/html
+
+Uri: https://spbboxing.ru/press-sluzhba
+File Name: C:\Downloaded Web Sites\spbboxing.ru\press-sluzhba.html
+Content Type: text/html
+
+Uri: https://spbboxing.ru/rukovodstvo
+File Name: C:\Downloaded Web Sites\spbboxing.ru\rukovodstvo.html
+Content Type: text/html
+
+Uri: https://spbboxing.ru/sostav-sbornoj
+File Name: C:\Downloaded Web Sites\spbboxing.ru\sostav-sbornoj.html
+Content Type: text/html
+
+Uri: https://spbboxing.ru/vstupit-v-federaciyu
+File Name: C:\Downloaded Web Sites\spbboxing.ru\vstupit-v-federaciyu.html
+Content Type: text/html
+
+Uri: https://stat.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\spbboxing.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/tilda-animation-1.0.min.css
+File Name: C:\Downloaded Web Sites\spbboxing.ru\css\tilda-animation-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cover-1.0.min.css
+File Name: C:\Downloaded Web Sites\spbboxing.ru\css\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-date-picker-1.0.min.css
+File Name: C:\Downloaded Web Sites\spbboxing.ru\css\tilda-date-picker-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-feed-1.0.min.css
+File Name: C:\Downloaded Web Sites\spbboxing.ru\css\tilda-feed-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\spbboxing.ru\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\spbboxing.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-menusub-1.0.min.css
+File Name: C:\Downloaded Web Sites\spbboxing.ru\css\tilda-menusub-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\spbboxing.ru\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\spbboxing.ru\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\spbboxing.ru\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\spbboxing.ru\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\spbboxing.ru\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\spbboxing.ru\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-1.0.min.js
+File Name: C:\Downloaded Web Sites\spbboxing.ru\js\tilda-animation-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\spbboxing.ru\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-date-picker-1.0.min.js
+File Name: C:\Downloaded Web Sites\spbboxing.ru\js\tilda-date-picker-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\spbboxing.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-feed-1.0.min.js
+File Name: C:\Downloaded Web Sites\spbboxing.ru\js\tilda-feed-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\spbboxing.ru\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menusub-1.0.min.js
+File Name: C:\Downloaded Web Sites\spbboxing.ru\js\tilda-menusub-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\spbboxing.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\spbboxing.ru\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\spbboxing.ru\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3030-6334-4262-a636-356139653831/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3030-6334-4262-a636-356139653831\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3032-3131-4939-b461-623530373962/-/resizeb/20x/IMG_0065.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3032-3131-4939-b461-623530373962\-\resizeb\20x\IMG_0065.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3035-6430-4266-b161-663737303839/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3035-6430-4266-b161-663737303839\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3036-3932-4661-b365-303362313865/-/resizeb/20x/__2.png
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3036-3932-4661-b365-303362313865\-\resizeb\20x\__2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3037-3335-4430-b638-616532343935/-/resizeb/20x/166940e4-4693-4a40-9.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3037-3335-4430-b638-616532343935\-\resizeb\20x\166940e4-4693-4a40-9.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3037-6161-4831-b235-343638393537/-/resizeb/20x/IMG_9785_1.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3037-6161-4831-b235-343638393537\-\resizeb\20x\IMG_9785_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3038-6462-4062-b334-343364646261/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3038-6462-4062-b334-343364646261\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3061-3131-4630-a138-313962616336/fund-logo.svg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3061-3131-4630-a138-313962616336\fund-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3061-3430-4230-b932-343237373837/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3061-3430-4230-b932-343237373837\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3066-3266-4134-b764-653833333831/-/resizeb/20x/2Cq34AswMyc_1.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3066-3266-4134-b764-653833333831\-\resizeb\20x\2Cq34AswMyc_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3130-3231-4939-a564-303535656536/-/resizeb/20x/-1.png
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3130-3231-4939-a564-303535656536\-\resizeb\20x\-1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3130-3832-4638-b438-643735376165/Artboard_1.svg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3130-3832-4638-b438-643735376165\Artboard_1.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3131-6230-4963-b666-356164313030/-/resize/20x/5EF-Kulx9kY.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3131-6230-4963-b666-356164313030\-\resize\20x\5EF-Kulx9kY.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3139-3432-4461-b731-623039383962/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3139-3432-4461-b731-623039383962\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3139-6135-4362-b139-613535333561/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3139-6135-4362-b139-613535333561\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3164-3033-4165-b133-306235313864/-/resizeb/20x/2021-04-24-13-34-59.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3164-3033-4165-b133-306235313864\-\resizeb\20x\2021-04-24-13-34-59.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3164-6165-4434-a262-363366326430/-/resizeb/20x/kVV2UFXMEyw_1.png
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3164-6165-4434-a262-363366326430\-\resizeb\20x\kVV2UFXMEyw_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3166-6436-4434-b239-383035633533/-/resizeb/20x/IMG_0267.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3166-6436-4434-b239-383035633533\-\resizeb\20x\IMG_0267.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3232-3435-4634-b963-643738666332/-/resizeb/20x/IMG_7558.JPG
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3232-3435-4634-b963-643738666332\-\resizeb\20x\IMG_7558.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3239-3932-4632-a464-363634343839/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3239-3932-4632-a464-363634343839\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3264-3833-4562-a530-313038376637/-/resizeb/20x/IMG_0280.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3264-3833-4562-a530-313038376637\-\resizeb\20x\IMG_0280.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3264-6166-4733-a362-656331626538/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3264-6166-4733-a362-656331626538\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3330-3337-4439-b637-653633653934/-/resize/20x/noroot.png
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3330-3337-4439-b637-653633653934\-\resize\20x\noroot.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3333-6136-4339-a439-393635656436/-/resizeb/20x/nYB0sNbz6to.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3333-6136-4339-a439-393635656436\-\resizeb\20x\nYB0sNbz6to.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3333-6535-4035-a566-363235306239/-/resizeb/20x/qYeB5wbxrOU.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3333-6535-4035-a566-363235306239\-\resizeb\20x\qYeB5wbxrOU.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3335-6438-4030-b739-626334303266/-/resizeb/20x/npQHUCDSl1U_1.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3335-6438-4030-b739-626334303266\-\resizeb\20x\npQHUCDSl1U_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3362-6566-4962-a361-656362653037/-/resizeb/20x/-2.png
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3362-6566-4962-a361-656362653037\-\resizeb\20x\-2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3363-6633-4339-a535-306235643430/-/empty/logo_blue.png
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3363-6633-4339-a535-306235643430\-\empty\logo_blue.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3430-6131-4635-a236-653238353736/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3430-6131-4635-a236-653238353736\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3431-3763-4262-a566-653334353630/-/resize/20x/F3XVaXGsgPU.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3431-3763-4262-a566-653334353630\-\resize\20x\F3XVaXGsgPU.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3432-3364-4234-b034-336663393135/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3432-3364-4234-b034-336663393135\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3434-3164-4034-a332-353234653835/home.svg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3434-3164-4034-a332-353234653835\home.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3436-3862-4662-a463-336633383535/mrch4.svg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3436-3862-4662-a463-336633383535\mrch4.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3464-6462-4962-b965-616262626134/-/resizeb/20x/IMG_0329.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3464-6462-4962-b965-616262626134\-\resizeb\20x\IMG_0329.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3531-3065-4639-b636-643266333266/-/resize/20x/medali.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3531-3065-4639-b636-643266333266\-\resize\20x\medali.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3531-3435-4761-a231-333039396534/-/resizeb/20x/D5C7D027-04F4-4DB1-B.png
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3531-3435-4761-a231-333039396534\-\resizeb\20x\D5C7D027-04F4-4DB1-B.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3531-3563-4662-b066-336166366365/-/resize/20x/IMG_0267.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3531-3563-4662-b066-336166366365\-\resize\20x\IMG_0267.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3531-6363-4236-b538-363437386536/-/resizeb/20x/9x0qFIW9AMY_1.png
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3531-6363-4236-b538-363437386536\-\resizeb\20x\9x0qFIW9AMY_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3532-3130-4934-a238-316338643361/-/empty/cds-logo.png
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3532-3130-4934-a238-316338643361\-\empty\cds-logo.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3533-3037-4431-b964-393965303933/-/resizeb/20x/e3FCTu00uC4-2.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3533-3037-4431-b964-393965303933\-\resizeb\20x\e3FCTu00uC4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3533-6666-4764-b935-653439626438/-/resizeb/20x/CEA2CEA3-DF7C-43C6-8.jpeg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3533-6666-4764-b935-653439626438\-\resizeb\20x\CEA2CEA3-DF7C-43C6-8.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3536-3037-4338-b337-353661383334/-/resize/20x/IMG_3217.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3536-3037-4338-b337-353661383334\-\resize\20x\IMG_3217.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3537-6139-4634-b134-616431376639/-/resizeb/20x/9x0qFIW9AMY_1.png
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3537-6139-4634-b134-616431376639\-\resizeb\20x\9x0qFIW9AMY_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3561-3534-4630-b561-313862393561/-/resizeb/20x/Ni6EEOM78D4.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3561-3534-4630-b561-313862393561\-\resizeb\20x\Ni6EEOM78D4.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3563-6633-4161-a431-373139616436/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3563-6633-4161-a431-373139616436\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3630-3536-4966-a330-623936376163/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3630-3536-4966-a330-623936376163\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3630-3565-4434-b939-376538353337/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3630-3565-4434-b939-376538353337\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3632-3437-4661-a266-653862626432/-/resize/20x/j2xFbRQqCJ0.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3632-3437-4661-a266-653862626432\-\resize\20x\j2xFbRQqCJ0.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3636-3030-4137-a237-633136366532/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3636-3030-4137-a237-633136366532\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3637-3638-4137-a266-633738336630/Artboard_1.svg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3637-3638-4137-a266-633738336630\Artboard_1.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3639-3931-4565-b464-316336303738/-/resizeb/20x/1633391893_7fc443.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3639-3931-4565-b464-316336303738\-\resizeb\20x\1633391893_7fc443.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3661-6439-4831-b638-633331653035/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3661-6439-4831-b638-633331653035\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3662-3934-4634-b735-303566356630/-/resizeb/20x/AoAattiPEh0_1.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3662-3934-4634-b735-303566356630\-\resizeb\20x\AoAattiPEh0_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3664-6630-4933-b138-346633633862/-/resizeb/20x/4019A859-B6CB-4D02-B.jpeg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3664-6630-4933-b138-346633633862\-\resizeb\20x\4019A859-B6CB-4D02-B.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3730-6665-4365-b834-666238633463/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3730-6665-4365-b834-666238633463\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3731-3264-4733-b935-376162353663/-/resizeb/20x/aWwjqE_odj4.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3731-3264-4733-b935-376162353663\-\resizeb\20x\aWwjqE_odj4.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3734-3338-4133-a666-343666363236/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3734-3338-4133-a666-343666363236\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3735-3264-4965-b664-356539326163/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3735-3264-4965-b664-356539326163\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3761-6663-4663-b732-383632343962/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3761-6663-4663-b732-383632343962\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3762-6331-4331-b963-616131663638/-/resizeb/20x/__.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3762-6331-4331-b963-616131663638\-\resizeb\20x\__.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3765-3239-4533-a465-363733383538/-/resizeb/20x/denis-borisovich-rek.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3765-3239-4533-a465-363733383538\-\resizeb\20x\denis-borisovich-rek.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3766-3063-4664-a234-623137343762/-/resizeb/20x/oleg-anatolevich-nau.jpeg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3766-3063-4664-a234-623137343762\-\resizeb\20x\oleg-anatolevich-nau.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3766-3433-4839-b864-363737323637/__15.svg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3766-3433-4839-b864-363737323637\__15.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3766-6234-4862-b733-323464396431/-/resizeb/20x/IMG_0263.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3766-6234-4862-b733-323464396431\-\resizeb\20x\IMG_0263.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3830-3063-4661-a236-636437333039/-/resize/20x/5EF-Kulx9kY.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3830-3063-4661-a236-636437333039\-\resize\20x\5EF-Kulx9kY.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3831-6538-4965-b032-623662623262/-/resizeb/20x/9x0qFIW9AMY_1_1.png
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3831-6538-4965-b032-623662623262\-\resizeb\20x\9x0qFIW9AMY_1_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3832-3132-4330-b663-386333646464/photo.png
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3832-3132-4330-b663-386333646464\photo.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3832-3638-4566-b861-366466636335/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3832-3638-4566-b861-366466636335\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3832-3661-4832-a266-636232653534/-/resizeb/20x/IMG_7210.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3832-3661-4832-a266-636232653534\-\resizeb\20x\IMG_7210.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3832-6133-4130-a563-666236373937/-/resizeb/20x/-1.png
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3832-6133-4130-a563-666236373937\-\resizeb\20x\-1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3832-6263-4063-b033-646533633837/-/resizeb/20x/IMG_7555.JPG
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3832-6263-4063-b033-646533633837\-\resizeb\20x\IMG_7555.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3835-3037-4933-a638-323034626535/-/resize/20x/7ct_4g6t7Kw.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3835-3037-4933-a638-323034626535\-\resize\20x\7ct_4g6t7Kw.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3835-3735-4762-b632-323666656561/-/resizeb/20x/z028Ow4DBec.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3835-3735-4762-b632-323666656561\-\resizeb\20x\z028Ow4DBec.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3838-6530-4730-a365-656536663432/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3838-6530-4730-a365-656536663432\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3839-6336-4165-a230-313961646363/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3839-6336-4165-a230-313961646363\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3863-6438-4339-b534-643036323530/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3863-6438-4339-b534-643036323530\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3864-3263-4430-b562-666466323935/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3864-3263-4430-b562-666466323935\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3933-6465-4130-b330-353263373862/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3933-6465-4130-b330-353263373862\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3935-3032-4230-b061-366132393664/-/resize/20x/SJPANkRvot0.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3935-3032-4230-b061-366132393664\-\resize\20x\SJPANkRvot0.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3936-3235-4230-a639-666466313664/-/resizeb/20x/noroot.png
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3936-3235-4230-a639-666466313664\-\resizeb\20x\noroot.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3938-3763-4462-b863-643539653539/-/resize/20x/_2.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3938-3763-4462-b863-643539653539\-\resize\20x\_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3963-3863-4266-b731-626364373839/-/resizeb/20x/Abnbcjdf.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3963-3863-4266-b731-626364373839\-\resizeb\20x\Abnbcjdf.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3963-6139-4030-a633-306161356366/chili-logo.svg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3963-6139-4030-a633-306161356366\chili-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3965-3064-4332-b930-386561626361/favicon.ico
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3965-3064-4332-b930-386561626361\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild3966-3335-4237-a338-373761663466/-/resize/20x/npx3U4KoXPE.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3966-3335-4237-a338-373761663466\-\resize\20x\npx3U4KoXPE.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3966-3363-4337-a635-336131653863/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild3966-3363-4337-a635-336131653863\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6130-3534-4437-a639-623764636436/-/resizeb/20x/IMG_0048.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6130-3534-4437-a639-623764636436\-\resizeb\20x\IMG_0048.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6133-3432-4534-a535-313966313163/-/empty/IMG_0806_1.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6133-3432-4534-a535-313966313163\-\empty\IMG_0806_1.jpg
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6134-3163-4231-b931-373831636139/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6134-3163-4231-b931-373831636139\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6138-3966-4066-b336-396562646230/-/resizeb/20x/9x0qFIW9AMY_1.png
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6138-3966-4066-b336-396562646230\-\resizeb\20x\9x0qFIW9AMY_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6138-6636-4466-b633-333035636336/-/resizeb/20x/IMG_0783.JPG
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6138-6636-4466-b633-333035636336\-\resizeb\20x\IMG_0783.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6330-6534-4830-b961-366432643531/green.svg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6330-6534-4830-b961-366432643531\green.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6332-6337-4137-b635-303262646434/-/resizeb/20x/IMG_6008_1.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6332-6337-4137-b635-303262646434\-\resizeb\20x\IMG_6008_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6336-3062-4830-b666-613331623462/svg-editor-image_7.svg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6336-3062-4830-b666-613331623462\svg-editor-image_7.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6337-6234-4463-b734-663130663466/__15.svg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6337-6234-4463-b734-663130663466\__15.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6338-3531-4531-a165-343031616539/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6338-3531-4531-a165-343031616539\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6363-6633-4163-a632-653032393461/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6363-6633-4163-a632-653032393461\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6364-3032-4366-b632-616133383134/blue.svg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6364-3032-4366-b632-616133383134\blue.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6366-3431-4763-a236-373235383834/red.svg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6366-3431-4763-a236-373235383834\red.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6431-3031-4638-b661-313234313331/-/resize/20x/z028Ow4DBec.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6431-3031-4638-b661-313234313331\-\resize\20x\z028Ow4DBec.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6433-3430-4935-a164-613438306565/-/resizeb/20x/__1.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6433-3430-4935-a164-613438306565\-\resizeb\20x\__1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6433-3531-4434-a339-313839346266/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6433-3531-4434-a339-313839346266\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6433-6333-4965-b136-306164393539/-/resizeb/20x/noroot.png
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6433-6333-4965-b136-306164393539\-\resizeb\20x\noroot.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6434-6231-4733-a531-376431616234/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6434-6231-4733-a531-376431616234\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6434-6637-4535-a538-653332643230/-/resize/20x/old-photo.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6434-6637-4535-a538-653332643230\-\resize\20x\old-photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6436-3235-4233-b532-303737663365/-/resize/20x/DSC04767__2.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6436-3235-4233-b532-303737663365\-\resize\20x\DSC04767__2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6438-3533-4164-b238-343935336365/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6438-3533-4164-b238-343935336365\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6462-3931-4939-b139-656534316630/-/resize/20x/NftQs_f_HUs.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6462-3931-4939-b139-656534316630\-\resize\20x\NftQs_f_HUs.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6462-6236-4166-b432-356438623461/-/empty/osporteonline-1.png
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6462-6236-4166-b432-356438623461\-\empty\osporteonline-1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6462-6365-4137-b262-646138313537/-/resizeb/20x/vG_4rkwpjBo.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6462-6365-4137-b262-646138313537\-\resizeb\20x\vG_4rkwpjBo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6530-6365-4939-a534-383762656332/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6530-6365-4939-a534-383762656332\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6532-3432-4135-b938-666231386230/-/resize/20x/FL1C1bi1Prk.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6532-3432-4135-b938-666231386230\-\resize\20x\FL1C1bi1Prk.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6532-6164-4762-a637-383761643631/____1.svg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6532-6164-4762-a637-383761643631\____1.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6533-6664-4434-a463-663936363464/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6533-6664-4434-a463-663936363464\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6535-3433-4231-b139-363633356331/-/resize/20x/SiIbpWxzfiA.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6535-3433-4231-b139-363633356331\-\resize\20x\SiIbpWxzfiA.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6538-6133-4464-a531-316564326437/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6538-6133-4464-a531-316564326437\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6538-6233-4666-a264-646134306636/-/resizeb/20x/HdnSciltCUI_1.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6538-6233-4666-a264-646134306636\-\resizeb\20x\HdnSciltCUI_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6561-3336-4265-b461-656632383231/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6561-3336-4265-b461-656632383231\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6565-3632-4436-a639-323930623966/-/resizeb/20x/hmdJVCb1KWU_1.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6565-3632-4436-a639-323930623966\-\resizeb\20x\hmdJVCb1KWU_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6565-3934-4339-a638-333162386265/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6565-3934-4339-a638-333162386265\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6566-3031-4035-a638-346139383863/-/resizeb/20x/feHbMRjzCWE.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6566-3031-4035-a638-346139383863\-\resizeb\20x\feHbMRjzCWE.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6631-6661-4162-b434-383964643062/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6631-6661-4162-b434-383964643062\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6635-3539-4433-b833-326131386432/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6635-3539-4433-b833-326131386432\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6663-3533-4433-b764-623033316533/-/resizeb/20x/iDIY8lzrx3w_1.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6663-3533-4433-b764-623033316533\-\resizeb\20x\iDIY8lzrx3w_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6665-6465-4766-b731-633662356133/-/resizeb/20x/IMG_7624_1.jpg
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6665-6465-4766-b731-633662356133\-\resizeb\20x\IMG_7624_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6665-6537-4030-b932-663936393363/-/resizeb/20x/IMG_7166.JPG
+File Name: C:\Downloaded Web Sites\spbboxing.ru\tild6665-6537-4030-b932-663936393363\-\resizeb\20x\IMG_7166.JPG
+Content Type: image/jpeg
+
+Uri: https://ws.tildacdn.com/project2059987/tilda-blocks-2.14.css?t=1647895263
+File Name: C:\Downloaded Web Sites\spbboxing.ru\project2059987\tilda-blocks-2.14.css
+Content Type: text/css
+
+Uri: https://ws.tildacdn.com/project2059987/tilda-blocks-2.14.css?t=1648384314
+File Name: C:\Downloaded Web Sites\spbboxing.ru\project2059987\tilda-blocks-2.14-2.css
+Content Type: text/css
+
+Uri: https://ws.tildacdn.com/project2059987/tilda-blocks-2.14.css?t=1648534493
+File Name: C:\Downloaded Web Sites\spbboxing.ru\project2059987\tilda-blocks-2.14-1.css
+Content Type: text/css
+
+Uri: https://ws.tildacdn.com/project2059987/tilda-blocks-2.7.js?t=1647895263
+File Name: C:\Downloaded Web Sites\spbboxing.ru\project2059987\tilda-blocks-2.7.js
+Content Type: application/javascript
+
+Uri: https://ws.tildacdn.com/project2059987/tilda-blocks-2.7.js?t=1648384314
+File Name: C:\Downloaded Web Sites\spbboxing.ru\project2059987\tilda-blocks-2.7-2.js
+Content Type: application/javascript
+
+Uri: https://ws.tildacdn.com/project2059987/tilda-blocks-2.7.js?t=1648534493
+File Name: C:\Downloaded Web Sites\spbboxing.ru\project2059987\tilda-blocks-2.7-1.js
+Content Type: application/javascript
+
+
+git remote add origin https://github.com/MyCode07/penzaboxing.git
+git branch -M main
+git push -u origin main

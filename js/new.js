@@ -66,6 +66,22 @@ document.addEventListener('DOMContentLoaded', function (e) {
         })
     }
 
+    if (document.querySelector('.partners__slider')) {
+        new Swiper('.partners__slider', {
+            loop:true,
+            slidesPerView:"auto",
+            spaceBetween:30,
+            centeredSlides:true,
+            effect:'slide',
+            slidesPerGroup: 1,
+            navigation: {
+                prevEl: '.partners__slider-prev',
+                nextEl: '.partners__slider-next'
+            },
+        })
+    }
+
+
     // .t-animate
 
     

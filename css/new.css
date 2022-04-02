@@ -986,3 +986,14 @@ font-size: 14px;
 }
 
 /* слайдер партнеров конец*/
+
+
+*[data-original]{
+    background-size: cover!important;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.fixed-image{
+    background-attachment: fixed;
+}
